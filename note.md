@@ -40,6 +40,8 @@ traits? = class/interface defined?
 
 stack vs heap?
 
+Rust code uses snake case as the conventional style for function and variable names, in which all letters are lowercase and underscores separate words.
+
 An array isn’t as flexible as the vector type, though. A vector is a similar collection type provided by the standard library that is allowed to grow or shrink in size. If you’re unsure whether to use an array or a vector, chances are you should use a vector.
 
 Compound types can group multiple values into one type. Rust has two primitive compound types: tuples and arrays.
