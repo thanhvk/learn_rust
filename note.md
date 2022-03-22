@@ -45,3 +45,7 @@ Rust code uses snake case as the conventional style for function and variable na
 An array isn’t as flexible as the vector type, though. A vector is a similar collection type provided by the standard library that is allowed to grow or shrink in size. If you’re unsure whether to use an array or a vector, chances are you should use a vector.
 
 Compound types can group multiple values into one type. Rust has two primitive compound types: tuples and arrays.
+
+Rust is an expression-based language, this is an important distinction to understand
+
+Expressions do not include ending semicolons. If you add a semicolon to the end of an expression, you turn it into a statement, and it will then not return a value. 
