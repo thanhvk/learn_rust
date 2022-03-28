@@ -6,6 +6,12 @@ https://soldev.app/?utm_source=solana.com
 
 https://kristohb.medium.com/mint-tokens-on-solana-using-the-rust-sdk-3b05b07ca842
 
+https://spl.solana.com/token
+
+https://github.com/solana-labs/solana-program-library
+
+https://solana-labs.github.io/solana-program-library/token/js/
+
 https://kristohb.medium.com/transfer-tokens-between-accounts-on-solana-f07c0fdb567c
 
 https://blog.matanwrites.com/your-first-solana-program
